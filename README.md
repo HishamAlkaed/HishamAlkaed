@@ -21,14 +21,40 @@
 
 ### 🛠️ Tech Stack
 
+**Languages & Querying**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SPARQL-0F4C81?style=for-the-badge&logo=semantic-web&logoColor=white" />
+</p>
+
+**AI & ML**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-10B981?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-00BFFF?style=for-the-badge&logoColor=white" />
+</p>
+
+**Data & Knowledge**
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphDB-FF6C37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Knowledge_Graphs-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-E97627?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Scraping-47A248?style=for-the-badge&logoColor=white" />
+</p>
+
+**Tools & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### 📌 Featured Projects
