@@ -57,21 +57,10 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**RecommendingBooks**](https://github.com/HishamAlkaed/RecommendingBooks) | Knowledge graph-based book recommendation system | JavaScript, SPARQL, React |
-| [**Master_Thesis**](https://github.com/HishamAlkaed/Master_Thesis) | Master's thesis — data, code, and research artifacts | Jupyter Notebook |
-| [**Schnapsen_master_AI_Project**](https://github.com/HishamAlkaed/Schnapsen_master_AI_Project) | AI game-playing agent | Python |
-| [**embodied_ai**](https://github.com/HishamAlkaed/embodied_ai) | Embodied AI experiments | Python |
-| [**Kickstarter**](https://github.com/HishamAlkaed/Kickstarter) | Kickstarter data analysis | Jupyter Notebook |
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HishamAlkaed&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HishamAlkaed&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
